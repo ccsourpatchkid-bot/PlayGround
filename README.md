@@ -16,3 +16,17 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/ccsourpatchkid-bot).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Santandreas: Sunset Run
+
+A desktop-friendly, third-person 3D driving game set in a stylized coastal city. Start the engine and deliver all five packages around town. No install or build step is required; serve this folder over HTTP (for example, `python3 -m http.server 3002`) and open it in a modern browser. Three.js is loaded from jsDelivr.
+
+### Controls
+
+- **W / S** or **↑ / ↓** — accelerate / reverse
+- **A / D** or **← / →** — steer
+- **Space** — brake
+- **Shift** — nitro boost
+- **R** — reset the car
+- **P** — pause / resume
+
